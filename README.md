@@ -26,7 +26,7 @@ The Currency Converter is designed to offer a user-friendly experience for conve
 To run the Currency Converter locally, follow these steps:
 
 1. **Clone the Repository:**
-   git clone https://github.com//currency-converter.git
+   git clone https://github.com/rooohits/React-Currency-Converter.git
 
 
 2. **Navigate to the Project Directory:**
