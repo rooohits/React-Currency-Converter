@@ -1,0 +1,64 @@
+/* App.css */
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f5f5f5; 
+}
+
+.cnt {
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h1 {
+  color: #3498db; 
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+p {
+  color: #555; 
+  font-size: 16px;
+}
+
+.input-field,
+.select-field {
+  margin: 15px;
+  padding: 12px;
+  font-size: 16px;
+  border: 2px solid #ddd; 
+  border-radius: 5px;
+  width: 80%;
+}
+
+.select-field {
+  cursor: pointer;
+}
+
+p.result {
+  font-size: 18px;
+  margin-top: 20px;
+  color: #333;
+  font-weight: bold;
+}
+
+.input-field:hover,
+.select-field:hover {
+  border-color: #3498db; 
+}
+
+.input-field:focus,
+.select-field:focus {
+  outline: none;
+  border-color: #3498db; 
+  box-shadow: 0 0 8px rgba(52, 152, 219, 0.6);
+}
+
+ 
