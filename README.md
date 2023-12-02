@@ -28,7 +28,6 @@ To run the Currency Converter locally, follow these steps:
 1. **Clone the Repository:**
    git clone https://github.com/rooohits/React-Currency-Converter.git
 
-
 2. **Navigate to the Project Directory:**
    cd currency-converter
 
